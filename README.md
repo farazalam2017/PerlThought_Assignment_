@@ -1,5 +1,9 @@
 # About Assignment
 
+### Video [Explanation](https://drive.google.com/file/d/1lRbfB025kcwjNLAEnxwt1KhZvTAZfYFJ/view?usp=sharing)
+
+### See it [live](https://codesandbox.io/p/github/farazalam2017/PerlThrough_Assignment_)
+
 ## What is a Date Picker?
 
 A date picker is a user interface component where users can pick a date from a calendar. You've probably seen it when you're selecting a date to book a hotel or an appointment online.
